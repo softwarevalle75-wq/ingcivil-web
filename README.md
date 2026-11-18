@@ -2,7 +2,9 @@
 
 Acceso directo, sin contraseña: https://odsanchezuniversitaria-web.github.io/cotacero-web/
 
-Unity 0.1.24 · revisión del 10 de noviembre de 2026 · build `fca99a89cba76e69`.
+Unity 0.1.26 · revisión del 18 de noviembre de 2026 · build `e056d15a0f71a494`.
+
+El teclado de perfiles muestra el nombre en cian, el cursor en verde y el contador en azul claro sobre el fondo oscuro. La práctica de concreto incorpora vertido visible de agua y mezcla, gotas, sonido sincronizado, límites de contacto de la varilla y luces y reflejos horneados. Las vibraciones usan el mando que sostiene cada objeto cuando el dispositivo y el navegador las admiten.
 
 Validación de la vista doble: se completó el montaje desde Reto sin ayuda con ratón en Edge 1366×768 y con toque Android emulado 390×844. La burbuja abre la vista, el centrado y la nivelación se conservan al cambiar de indicador, los presets no ajustan valores y el montaje espera a Confirmar. También se revisaron 320×568 y 844×390, sin desbordamiento horizontal. Ambos recorridos registraron cero errores de JavaScript.
 
